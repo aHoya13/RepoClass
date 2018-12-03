@@ -2,7 +2,9 @@
 title: "DataReproClass"
 author: "Ann-Marie Jacoby"
 date: "12/3/2018"
-output: html_document
+output: 
+  html_document:
+    keep_md: TRUE
 ---
 
 Set up:
